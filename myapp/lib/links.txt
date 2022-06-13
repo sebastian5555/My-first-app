@@ -1,0 +1,5 @@
+https://github.com/JohannesMilke/email_field_example
+https://www.youtube.com/watch?v=x0uinJvhNxI&ab_channel=Academind
+https://www.youtube.com/watch?v=j5oLEwSdV6U&ab_channel=ProtoCodersPoint
+https://stackoverflow.com/questions/67993074/how-to-pass-a-function-as-a-validator-in-a-textformfield
+https://www.youtube.com/watch?v=noi6aYsP7Go&ab_channel=LearnFlutterwithMe
